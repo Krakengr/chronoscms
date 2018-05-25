@@ -1,2 +1,2 @@
-# chronoscms
-Chronos CMS
+# Chronos CMS
+Chronos Content Management System
