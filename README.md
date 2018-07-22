@@ -8,9 +8,9 @@ https://chronos.g3ar.xyz/
 
 ## Features
 - Admin panel
-- Multilanguage Support
-- Categorization with tags (multi tags support)
-- Static pages (you can use a page as a frontpage instead of classic blog)
+- Multilanguage Support (for tags, pages, posts and categories)
+- Categorization with tags (multi tags support) or categories
+- Static pages (you can use a page as a frontpage instead of the classic blog)
 - Meta canonical, description, and rich snippets for SEO
 - Pagination
 - Author page
