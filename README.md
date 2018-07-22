@@ -26,3 +26,4 @@ https://chronos.g3ar.xyz/
 - SEO friendly URL
 - Teaser thumbnail for images and Youtube videos
 - Responsive design
+- import content from WordPress
